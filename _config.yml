@@ -20,7 +20,7 @@ description: One World Cafe in Nyahururu, Kenya
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   About: "about"
   Menu: "menu"
   Contact Us: "contact-us"
