@@ -11,7 +11,7 @@ description: One World Cafe in Nyahururu, Kenya
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://www.myoneworldcafe.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -66,10 +66,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "info@myoneworldcafe.com"
+  facebook: myoneworldcafe
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
