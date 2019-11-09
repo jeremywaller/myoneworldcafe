@@ -21,7 +21,7 @@ url: "https://www.myoneworldcafe.com"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "/"
   About: "about"
   Menu: "menu"
   Contact Us: "contact-us"
